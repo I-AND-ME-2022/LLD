@@ -12,7 +12,7 @@ class SnakeLadderGameDemo:
     @abstractmethod
     def main():
         p1 = Player("Aarti")
-        p2 = Player("Pradip")
+        p2 = Player("unknown")
         board = Board(3)
         dice = Dice(6)
         rule = StandardRuleStrategy()
@@ -27,5 +27,6 @@ class SnakeLadderGameDemo:
         
         
         
+
 
 SnakeLadderGameDemo.main()
