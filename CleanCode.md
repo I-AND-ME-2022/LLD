@@ -3,10 +3,15 @@
 
 ### Why is Clean Code Important?
 - Readability
+   Clean code is easy to read, which means that anyone - including your future self - can understand it quickly.
 - Maintainability
+   Code is read more often than it is written. When you write clean code, it becomes easier to maintain and extend the application over time.
 - Collaboration
+   Clean code encourages collaboration. When your code is clean and well-organized, other team members can work on it effectively.
 - Bug Reduction
+   Clean code reduces the likelihood of introducing bugs.
 - Efficiency
+   Clean code is efficient code. It typically runs faster and uses fewer resources because it avoids unnecessary operations and complexity.
 ### Best Practices and Principles for Writing Clean Code
 - 1 . Meaningful Variable and Function Names
 - 2 . Keep Functions and Methods Short
